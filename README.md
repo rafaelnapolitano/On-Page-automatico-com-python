@@ -5,7 +5,7 @@ Por meio da leitura dos diversos arquivos csv, podemos criar um banco de dados q
 
 
 
-em ingles 
+english
 
 The project consists of automating the process of sending a daily report with sales data and results from all stores of a given brand, and at the end sends an email to the respective managers of each store and also to the board of directors.
 
